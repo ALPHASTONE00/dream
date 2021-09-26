@@ -112,7 +112,7 @@
 
     .domain {
         color: white;
-        background-image: url('/My Project/Images/domain-back.png');
+        background-image: url('../My Project/Images/domain-back.png');
         background-repeat: no-repeat;
     }
 
