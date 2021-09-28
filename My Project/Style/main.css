@@ -43,7 +43,7 @@
         flex-direction: column;
         color: #fff;
         line-height: 1.2;
-        background: url('/Images/code-1839406_1280.jpg') rgba(0, 0, 0, 0.85);
+        background: url('../Images/code-1839406_1280.jpg') rgba(0, 0, 0, 0.85);
         /* background-color: ; */
         background-repeat: no-repeat;
         background-size: cover;
@@ -112,7 +112,7 @@
 
     .domain {
         color: white;
-        background-image: url('/Images/domain-back.png');
+        background-image: url('../Images/domain-back.png');
         background-repeat: no-repeat;
     }
 
