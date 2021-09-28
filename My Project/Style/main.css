@@ -267,6 +267,10 @@
         text-align: left;
     }
 
+   .footer-flex-item h2 {
+      text-align: center;
+   }
+
     .footer-section .social-media span {
         color: aqua;
     }
